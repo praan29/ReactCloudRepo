@@ -19,7 +19,7 @@ export default class App extends React.Component {
 								style = {styles.logo}
 								source = {logo} 
 							/>
-							<Text style = {styles.title}> We Deliver Solutions For Tomorrow.</Text>
+							<Text style = {styles.title}> We Deliver Solutions For Tomorrow..</Text>
 						</View>
 					<LoginForm/>
 				
